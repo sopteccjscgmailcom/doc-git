@@ -18,7 +18,7 @@ git add leeme.txt
 6.  [commit]
 git commit -m "primer commit"   {hacer un commit
 
-7.  [log]
+7.  [log](log.md)                     
 git log                         {muestra commits
 
 8. [checkout]
@@ -27,5 +27,11 @@ git checkout <nombredelarchivo> {restaura los cambios antes de subir al stage
 9. [reset]
 git reset                       {deshace cambios agregados al area de stage (git add)
 
-1. [diff]
+10. [diff]
 git diff                        {ver las difrencias entre nuestros archivos recien editados
+
+11. [reflog]
+git reflog                      {muestra el historial completo de interacciones en git un log completo
+
+12. [tag]                       
+git tag                         {agregamos un nombre a nuestra version de nuestro proyecto
