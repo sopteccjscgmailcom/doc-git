@@ -20,3 +20,9 @@ git commit -m "primer commit"   {hacer un commit
 
 7.  [log]
 git log                         {muestra commits
+
+8. [checkout]
+git checkout <nombredelarchivo> {restaura los cambios antes de subir al stage
+
+9. [reset]
+git reset                       {deshace cambios agregados al area de stage (git add)
