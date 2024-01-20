@@ -6,25 +6,17 @@ git config --global user.email "sopteccjsc@gmail.com"
 git init
 
 3.  [branch]
-git branch -m main      
+git branch -m main          
 
 4.  [status]
-git status              
+git status                      
 
 5.  [add]
-git add *               
+git add *                       {agregar al stage todos los archivos
 git add leeme.txt       
 
 6.  [commit]
-git commit -m "primer commit"   {ingresa un texto para un commit    -m message
+git commit -m "primer commit"   {hacer un commit
 
 7.  [log]
-git log                 {muestra todos nuestros commits
-
-8.  []
-
-9.  []
-
-10.  []
-
-11.  []
+git log                         {muestra commits
