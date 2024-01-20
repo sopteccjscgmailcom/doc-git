@@ -34,6 +34,10 @@ git diff                        {ver las difrencias entre nuestros archivos reci
 git reflog                      {muestra el historial completo de interacciones en git un log completo
 
 12. [tag]                       
-git tag version_1                {agregamos un nombre a nuestra version de nuestro proyecto
+git tag version_1               {agregamos un nombre a nuestra version de nuestro proyecto
 
+13. [branch]                    
+git branch rama1                {creamos una rama
 
+14. [switch]
+git switch nombreDeLaRama       {cambiamos de lugar de trabajo a otra rama
