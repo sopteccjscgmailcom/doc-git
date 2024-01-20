@@ -9,3 +9,6 @@
 
 #   git checkout HEAD
     ponemos como cabeza la hoja en la que estamos
+
+#   git checkout main
+    regresa a la rama principal

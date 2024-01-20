@@ -11,3 +11,4 @@ presionar [q] para salir del visualizador de git log
 
 #   git log -graph --decorate --all --oneline
     ver las ramas no viendo el codigo hash
+    

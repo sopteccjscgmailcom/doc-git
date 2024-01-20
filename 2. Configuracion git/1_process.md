@@ -12,11 +12,11 @@ git branch -m main
 git status                      
 
 5.  [add]
-git add *                       {agregar al stage todos los archivos
+git add *
 git add leeme.txt       
 
 6.  [commit]
-git commit -m "primer commit"   {hacer un commit
+git commit -m "primer commit"   
 
 7.  [log](log.md)                     
 git log                         {muestra commits
@@ -34,4 +34,6 @@ git diff                        {ver las difrencias entre nuestros archivos reci
 git reflog                      {muestra el historial completo de interacciones en git un log completo
 
 12. [tag]                       
-git tag                         {agregamos un nombre a nuestra version de nuestro proyecto
+git tag version_1                {agregamos un nombre a nuestra version de nuestro proyecto
+
+
