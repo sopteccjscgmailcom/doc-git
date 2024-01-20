@@ -6,16 +6,25 @@ git config --global user.email "sopteccjsc@gmail.com"
 git init
 
 3.  [branch]
-git branch -m main      {cambia el nombre de nuestra rama principal de master a main
+git branch -m main      
 
-4.  []
+4.  [status]
+git status              
 
+5.  [add]
+git add *               
+git add leeme.txt       
 
-5.  []
+6.  [commit]
+git commit -m "primer commit"   {ingresa un texto para un commit    -m message
 
+7.  [log]
+git log                 {muestra todos nuestros commits
 
-6.  []
+8.  []
 
+9.  []
 
-7.  []
+10.  []
 
+11.  []
