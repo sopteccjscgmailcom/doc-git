@@ -26,3 +26,6 @@ git checkout <nombredelarchivo> {restaura los cambios antes de subir al stage
 
 9. [reset]
 git reset                       {deshace cambios agregados al area de stage (git add)
+
+1. [diff]
+git diff                        {ver las difrencias entre nuestros archivos recien editados
