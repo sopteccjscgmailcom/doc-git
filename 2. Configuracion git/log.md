@@ -1,3 +1,5 @@
+presionar [q] para salir del visualizador de git log
+
 #   git log                 
     muestra todos nuestros commits
 
