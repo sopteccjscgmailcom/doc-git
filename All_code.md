@@ -46,4 +46,5 @@ git switch nombreDeLaRama       {cambiamos de lugar de trabajo a otra rama
 git merge otrarama              {combina 2 ramas
 
 16. [stash]
-git stash                       {un commit que no es commit
+git stash                       {un commit temporal
+
