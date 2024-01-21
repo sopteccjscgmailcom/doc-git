@@ -6,3 +6,6 @@
 
 #   git stash pop
     recupera tu commit guardado
+
+#   git stash drop
+    borra el stash creado
