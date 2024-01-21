@@ -41,3 +41,9 @@ git branch rama1                {creamos una rama
 
 14. [switch]
 git switch nombreDeLaRama       {cambiamos de lugar de trabajo a otra rama
+
+15. [merge]
+git merge otrarama              {combina 2 ramas
+
+16. [stash]
+git stash                       {un commit que no es commit
