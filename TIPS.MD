@@ -7,3 +7,7 @@
 
     lo usamos para evitar ficheros que no queremos agregar
 #   .gitignore
+
+
+#   crlt + }
+<!-- comentamos el codigo -->
