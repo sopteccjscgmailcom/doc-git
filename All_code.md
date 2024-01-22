@@ -53,5 +53,8 @@ git stash                       {un commit temporal
 17. [remote]                    {nos conectamos al repositorio de github
 git remote add origin https://github.com/sopteccjscgmailcom/doc-git.git
 
-18. [push]                      {
+18. [push]                      { subir nuestro proyecto
 git push -u origin main
+
+19. [fetch]
+git fetch                       {descarga el historial de cambios
