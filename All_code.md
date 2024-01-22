@@ -49,11 +49,11 @@ git merge otrarama              {combina 2 ramas
 git stash                       {un commit temporal
 
 <!----------------------------- GITHUB ----------------------------->
-
-17. [remote]                    {nos conectamos al repositorio de github
+<!-- subida de proyecto -->
+17. [remote]                    {nos conectamos al repositorio de github - solo la primera vez
 git remote add origin https://github.com/sopteccjscgmailcom/doc-git.git
 
-18. [push]                      { subir nuestro proyecto
+18. [push]                      { subir nuestro proyecto - luego usamos solo push
 git push -u origin main
 
 19. [fetch]
@@ -61,3 +61,12 @@ git fetch                       {descarga el historial de cambios
 
 20. [pull]
 git pull                        {combinamos remoto con local
+<!-- descargar un proyecto -->
+21. [clone]
+git clone urldelproyecto        {copia sincronizada del proyecto
+<!-- trabjar con otro proyecto -->
+fork   <creamos un fork>        
+clone   <una vez creado clonamos nuestro repositorio y empezamos a trabajar>
+Contribute  ->  pull request    <una vez haciendo add, commit en github  hacemos el pull>
+
+sinc fork   <para que estemos actualizador con el proyecto original>
