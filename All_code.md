@@ -58,3 +58,6 @@ git push -u origin main
 
 19. [fetch]
 git fetch                       {descarga el historial de cambios
+
+20. [pull]
+git pull                        {combinamos remoto con local
