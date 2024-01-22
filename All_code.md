@@ -48,3 +48,10 @@ git merge otrarama              {combina 2 ramas
 16. [stash]
 git stash                       {un commit temporal
 
+<!----------------------------- GITHUB ----------------------------->
+
+17. [remote]                    {nos conectamos al repositorio de github
+git remote add origin https://github.com/sopteccjscgmailcom/doc-git.git
+
+18. [push]                      {
+git push -u origin main
