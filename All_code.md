@@ -70,3 +70,5 @@ clone   <una vez creado clonamos nuestro repositorio y empezamos a trabajar>
 Contribute  ->  pull request    <una vez haciendo add, commit, en github hacemos el pull>
 
 sinc fork   <para que estemos actualizador con el proyecto original>
+
+hola
