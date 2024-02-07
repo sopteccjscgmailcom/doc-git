@@ -64,11 +64,9 @@ git pull                        {combinamos remoto con local
 <!-- descargar un proyecto -->
 21. [clone]
 git clone urldelproyecto        {copia sincronizada del proyecto
-<!-- trabjar con otro proyecto en la pagina de github NO-local -->
+<!-- trabajar con otro proyecto en la pagina de github NO-local -->
 fork   <creamos un fork>        
 clone   <una vez creado clonamos nuestro repositorio y empezamos a trabajar>
 Contribute  ->  pull request    <una vez haciendo add, commit, en github hacemos el pull>
 
 sinc fork   <para que estemos actualizador con el proyecto original>
-
-hola
