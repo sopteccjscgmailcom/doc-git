@@ -1,6 +1,6 @@
 # documentacion git
 
-## 1️⃣ CONFIGURACION
+## 🟡1 CONFIGURACION
 
 ### [config](2_Configuracion_git/config.md)
     git config user.name "sopteccjscgmailcom"
@@ -20,9 +20,9 @@
     git add leeme.txt       
 
 ### [commit](2_Configuracion_git/commit.md)
-git commit -m "primer commit"   
+    git commit -m "primer commit"   
 
-## 2️⃣ Funcionalidades
+## 🟡2 Funcionalidades
 
 ### [log](log.md)                     
     git log                         
@@ -60,7 +60,7 @@ combina 2 ramas
     git stash                       
 un commit temporal
 
-## 🟡 GITHUB
+## 🟡3 GITHUB
 subida de proyecto
 ### [remote]                    
     git remote add origin https://github.com/sopteccjscgmailcom/doc-git.git
@@ -78,7 +78,7 @@ descarga el historial de cambios
     git pull                        
 combinamos remoto con local
 
-## ❎ Descargar un proyecto
+## 🟡4 Descargar un proyecto
 ### [clone]
     git clone https://github.com/sopteccjscgmailcom/doc-git.git     
 copia sincronizada del proyecto
@@ -90,3 +90,17 @@ clone   <una vez creado clonamos nuestro repositorio y empezamos a trabajar>
 Contribute  ->  pull request    <una vez haciendo add, commit, en github hacemos el pull>
 
 sinc fork   <para que estemos actualizador con el proyecto original>
+
+## 🟣 Tipos Adicionales
+### abrir nuestra visual estudio code en la ruta donde nos encontramos 
+    code .
+
+### ingresamos a esta ruta para ver la configuracion de nuestro git
+    C:\Users\clive_pfl66ry\.gitconfig
+donde veremos nuestro user y email
+
+### lo usamos para evitar ficheros que no queremos agregar
+[.gitignore](.gitignore)
+
+### comentamos el codigo en visualStudio
+    crlt + }
