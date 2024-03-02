@@ -1,3 +1,9 @@
+```css
+h1{
+background:red;
+}
+```
+
 # documentacion git
 
 ## 🟡1 CONFIGURACION
