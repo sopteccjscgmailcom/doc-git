@@ -9,7 +9,9 @@ background:red;
 ## 🟡1 CONFIGURACION
 
 ### [config](2_Configuracion_git/config.md)
-    git config user.name "sopteccjscgmailcom"
+´´´bash
+git config user.name "sopteccjscgmailcom"
+´´´
     git config user.email "sopteccjsc@gmail.com"
 
 ### [init](2_Configuracion_git/init.md)
